@@ -34,15 +34,15 @@ End-to-end Power BI project from the Codebasics Data Analytics Bootcamp. This in
 
 ## Dashboard Views
 
-**1.** [Home Page](https://github.com/JayaraniArunachalam/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+**1.** [Home Page](https://github.com/JayaraniArunachalam/Business-Insights-360--Power-BI-Dashboard/blob/main/Home%20Page.png)
 
-**2.** [Finance View](https://github.com/JayaraniArunachalam/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+**2.** [Finance View](https://github.com/JayaraniArunachalam/Business-Insights-360--Power-BI-Dashboard/blob/main/Finance%20Page.png)
 
-**3.** [Sales View](https://github.com/JayaraniArunachalam/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+**3.** [Sales View](https://github.com/JayaraniArunachalam/Business-Insights-360--Power-BI-Dashboard/blob/main/Sales%20View.png)
 
-**4.** [Marketing View](https://github.com/JayaraniArunachalam/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
+**4.** [Marketing View](https://github.com/JayaraniArunachalam/Business-Insights-360--Power-BI-Dashboard/blob/main/Marketing%20View.png)
 
-**5.** [Supply Chain View](https://github.com/JayaraniArunachalam/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
+**5.** [Supply Chain View](https://github.com/JayaraniArunachalam/Business-Insights-360--Power-BI-Dashboard/blob/main/Supply%20Chain%20View.png)
 
 **6.** [Executive View](https://github.com/JayaraniArunachalam/Business-Insights-360--Power-BI-Dashboard/blob/main/Executive%20View.png)
 
