@@ -44,7 +44,7 @@ End-to-end Power BI project from the Codebasics Data Analytics Bootcamp. This in
 
 **5.** [Supply Chain View](https://github.com/JayaraniArunachalam/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
-**6.** [Executive View](https://github.com/JayaraniArunachalam/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
+**6.** [Executive View](https://github.com/JayaraniArunachalam/Business-Insights-360--Power-BI-Dashboard/blob/main/Executive%20View.png)
 
 
 
